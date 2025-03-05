@@ -1,6 +1,7 @@
 # LAPS
-This project investigates larval dispersal across the north Pacific Ocean using modeling framework [OceanParccles](oceanparcels.org). 
+This project investigates larval dispersal across the north Pacific Ocean using modeling framework [OceanParcels](https://oceanparcels.org/). 
 
+![StudyArea](LAPS_study_area.png)
 
 ## Authors and acknowledgment
 This is part of a larger NSF project and contributing directly to the code in this repo are:
